@@ -1,0 +1,5 @@
+{
+  "name": "360° Perfect Sensitivity",
+  "description": "Calculate your perfect in-game sensitivity based on your actual mouse pad space and physical movement range.",
+  "requestFramePermissions": []
+}
